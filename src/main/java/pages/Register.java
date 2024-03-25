@@ -31,7 +31,7 @@ public class Register extends Pages {
         driver.findElement(firstname).sendKeys("Muneera");
         driver.findElement(lastname).sendKeys("AlAli");
         driver.findElement(email).sendKeys("akmuneera19@gmail.com");
-        driver.findElement(telephone).sendKeys("+966553665037");
+        driver.findElement(telephone).sendKeys("+966555555555");
         driver.findElement(password).sendKeys("TestingTesting123");
         driver.findElement(confirmPassoword).sendKeys("TestingTesting123");
 
